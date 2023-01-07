@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "tensor": "cpp",
+        "future": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "hash_map": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "functional": "cpp",
+        "type_traits": "cpp",
+        "istream": "cpp",
+        "chrono": "cpp",
+        "ratio": "cpp",
+        "tuple": "cpp",
+        "cmath": "cpp"
+    }
+}
